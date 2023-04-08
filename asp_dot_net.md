@@ -1,4 +1,12 @@
 
+良書（と思われる）
+
+https://www.amazon.co.jp/gp/product/4822253805
+https://www.amazon.co.jp/dp/1098113241
+https://www.amazon.co.jp/-/en/Peter-Himschoot/dp/1484259270
+https://www.amazon.co.jp/dp/482229692X
+
+
 （レガシーなASP.NET・2011年）  
 https://atmarkit.itmedia.co.jp/fdotnet/bookpreview/learnaspnet_0202/learnaspnet_0202_01.html
 
